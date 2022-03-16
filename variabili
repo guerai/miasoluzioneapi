@@ -1,0 +1,4 @@
+Nickname: unitn.icts.firmadigitale
+path: /firmadigitale
+ReplicaSet: 1
+Container_Registry_Base: unitn.icts
