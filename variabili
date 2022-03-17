@@ -2,3 +2,5 @@ Nickname: unitn.icts.miasoluzioneapi
 path: /miasoluzioneapi
 ReplicaSet: 1
 Container_Registry_Base: unitn.icts
+livenessProbePath: /hc/live
+startupProbePath: /hc/ready
