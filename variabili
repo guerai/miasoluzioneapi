@@ -1,4 +1,4 @@
-Nickname: unitn.icts.firmadigitale
-path: /firmadigitale
+Nickname: unitn.icts.miasoluzioneapi
+path: /miasoluzioneapi
 ReplicaSet: 1
 Container_Registry_Base: unitn.icts
